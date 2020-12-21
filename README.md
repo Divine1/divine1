@@ -11,6 +11,9 @@ i have worked on below domains
 - Publishing
 - Banking
 
+OS 
+- Mac
+- Ubuntu
 
 Online presence: [Linkedin](https://www.linkedin.com/in/divine6/) [Stackoverflow](https://stackoverflow.com/users/3673073/divine) [Twitter](https://twitter.com/divine_rw)
 
