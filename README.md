@@ -1,8 +1,21 @@
-### Hi there 👋
+### Professional career: 2012 till date
+
+i'm currently working on these technologies
+- MEAN Stack
+- AWS / Digital Ocean
+- Docker
+
+i have worked on below domains
+- Insurance
+- Ecommerce
+- Publishing
+- Banking
+
+- [Linkedin](https://www.linkedin.com/in/divine6/)
+- [Stackoverflow](https://stackoverflow.com/users/3673073/divine)
+- [Twitter](https://twitter.com/divine_rw)
 
 <!--
-**Divine1/divine1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
