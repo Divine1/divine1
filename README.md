@@ -12,10 +12,7 @@ i have worked on below domains
 - Banking
 
 
-i'm available at
-- [Linkedin](https://www.linkedin.com/in/divine6/)
-- [Stackoverflow](https://stackoverflow.com/users/3673073/divine)
-- [Twitter](https://twitter.com/divine_rw)
+Online presence: [Linkedin](https://www.linkedin.com/in/divine6/) [Stackoverflow](https://stackoverflow.com/users/3673073/divine) [Twitter](https://twitter.com/divine_rw)
 
 <!--
 Here are some ideas to get you started:
