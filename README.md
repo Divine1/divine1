@@ -1,6 +1,6 @@
 Professional career: 2012 till date
 
-i'm currently working on these technologies
+i'm currently using these technologies
 - MEAN Stack
 - AWS / Digital Ocean
 - Docker
