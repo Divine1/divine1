@@ -1,4 +1,4 @@
-### Professional career: 2012 till date
+Professional career: 2012 till date
 
 i'm currently working on these technologies
 - MEAN Stack
