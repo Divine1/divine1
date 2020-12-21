@@ -11,6 +11,8 @@ i have worked on below domains
 - Publishing
 - Banking
 
+
+i'm available at
 - [Linkedin](https://www.linkedin.com/in/divine6/)
 - [Stackoverflow](https://stackoverflow.com/users/3673073/divine)
 - [Twitter](https://twitter.com/divine_rw)
