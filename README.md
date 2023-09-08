@@ -4,6 +4,7 @@ i'm currently using these technologies
 - MEAN Stack
 - AWS / Digital Ocean
 - Docker
+- K8s ( CKAD certified)
 
 i have worked on below domains
 - Insurance
