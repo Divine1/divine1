@@ -5,7 +5,7 @@ i'm currently using these technologies
 - JAVA, SpringBoot
 - AWS / Digital Ocean
 - Docker
-- K8s ( CKAD certified)
+- K8s ( [CKAD certified](https://www.credly.com/badges/6f5e9251-352f-444d-a372-f57fc450cf6c/public_url))
 
 i have worked on below domains
 - Insurance
