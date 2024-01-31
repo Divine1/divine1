@@ -1,7 +1,8 @@
 Professional career: 2012 till date
 
 i'm currently using these technologies
-- MEAN Stack
+- Angular, Nodejs
+- JAVA, SpringBoot
 - AWS / Digital Ocean
 - Docker
 - K8s ( CKAD certified)
