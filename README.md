@@ -1,23 +1,17 @@
 Professional career: 2012 till date
 
-i'm currently using these technologies
-- Angular, Nodejs
-- JAVA, SpringBoot
+i'm working on a product (as you are reading). Hoping it would be launched soon.
+
+Technologies in-memory
+- Angular, React, Nodejs
+- Python Django, Fastapi, JAVA, SpringBoot
+- ScyllaDB, Mysql, Mongodb, Redis
 - AWS / Digital Ocean
 - Docker
-- K8s ( [CKAD certified](https://www.credly.com/badges/6f5e9251-352f-444d-a372-f57fc450cf6c/public_url))
+- K8s ( [CKAD ](https://www.credly.com/badges/6f5e9251-352f-444d-a372-f57fc450cf6c/public_url))
 
-i have worked on below domains
-- Insurance
-- Ecommerce
-- Publishing
-- Banking
 
-OS 
-- Mac
-- Ubuntu
-
-Online presence: [Linkedin](https://www.linkedin.com/in/divine6/) [Stackoverflow](https://stackoverflow.com/users/3673073/divine) [Twitter](https://twitter.com/divine_rw)
+[Linkedin](https://www.linkedin.com/in/divine6/) [Stackoverflow](https://stackoverflow.com/users/3673073/divine) [Twitter](https://twitter.com/divine_rw)
 
 <!--
 Here are some ideas to get you started:
