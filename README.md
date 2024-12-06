@@ -4,7 +4,7 @@ i'm working on a product (as you are reading). Hoping it would be launched soon.
 
 Technologies in-memory
 - Angular, React, Nodejs
-- Python Django, Fastapi, JAVA, SpringBoot
+- Python, Fastapi, JAVA, SpringBoot
 - ScyllaDB, Mysql, Mongodb, Redis
 - AWS / Digital Ocean
 - Docker
