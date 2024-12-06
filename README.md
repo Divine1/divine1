@@ -11,7 +11,7 @@ Technologies in-memory
 - K8s ( [CKAD ](https://www.credly.com/badges/6f5e9251-352f-444d-a372-f57fc450cf6c/public_url))
 
 
-[Linkedin](https://www.linkedin.com/in/divine6/) [Stackoverflow](https://stackoverflow.com/users/3673073/divine) [Twitter](https://twitter.com/divine_rw)
+[Linkedin](https://www.linkedin.com/in/divine6/) [Stackoverflow](https://stackoverflow.com/users/3673073/divine) [X](https://x.com/cdivine304)
 
 <!--
 Here are some ideas to get you started:
